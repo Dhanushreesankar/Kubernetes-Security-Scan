@@ -34,7 +34,7 @@ Kubernetes clusters can be vulnerable to various security risks, and it is essen
    - Replace `--scope cluster` with the appropriate flags for your environment and configuration.
 
 4. **Check the Results**:
-   - After the scan, the findings will be saved in a JSON file (`findings.json`).
+   - After the scan, the findings will be saved in a JSON file (`results.json`).
    - This file is included in the repository for reference.
 
 ## License
